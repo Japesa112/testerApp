@@ -1,1 +1,2 @@
 git+https://github.com/openai/whisper.git
+gunicorn==19.7.1
